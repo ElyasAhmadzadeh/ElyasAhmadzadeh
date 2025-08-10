@@ -28,19 +28,19 @@
 - ✅ **To-Do List**– Responsive to-do list with validation, character counter, delete and done buttons.  
 - 📝 **Simple Form**– Basic form with input validation and clean UI.
 
----
+
 
 ## 🌱 Currently Learning
 - Advanced JavaScript (ES6+)
 - GitHub Project Management
 
----
+
 
 ## 📫 Contact Me
 - **Email:** ahmadzadehelyas299@gmail.com  
 - **GitHub:**  https://github.com/ElyasAhmadzadeh
 
----
+ 
 
 ⭐ *I believe in continuous learning and building projects to grow as a developer.*
 
